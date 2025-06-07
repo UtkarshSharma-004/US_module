@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-API_KEY = "0ec423791951ff2394f4002096abf717"
+API_KEY = "ADD your API key"
 
 @app.route('/', methods=['GET','POST'])
 def index():
