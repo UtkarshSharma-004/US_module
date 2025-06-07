@@ -1,0 +1,14 @@
+2024-10-31 10:25:18- flask_cors.core - WARNING - Unknown option passed to Flask-CORS: origin
+2024-10-31 10:25:18- werkzeug - WARNING -  * Debugger is active!
+2024-10-31 10:25:18- werkzeug - INFO -  * Debugger PIN: 113-364-318
+2024-10-31 10:26:26- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:26:26] "[35m[1mPOST /add_cartoon HTTP/1.1[0m" 500 -
+2024-10-31 10:31:55- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:31:55] "[35m[1mPOST /add_cartoon HTTP/1.1[0m" 500 -
+2024-10-31 10:31:56- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:31:56] "[35m[1mPOST /add_cartoon HTTP/1.1[0m" 500 -
+2024-10-31 10:32:46- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:32:46] "POST /add_cartoon HTTP/1.1" 200 -
+2024-10-31 10:33:11- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:33:11] "[33mPOST /get_cartoon HTTP/1.1[0m" 404 -
+2024-10-31 10:33:18- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:33:18] "[31m[1mPOST /get_cartoon/Tom%20and%20Jerry HTTP/1.1[0m" 405 -
+2024-10-31 10:33:29- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:33:29] "[33mGET /get_cartoon HTTP/1.1[0m" 404 -
+2024-10-31 10:33:32- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:33:32] "[33mGET /get_cartoon HTTP/1.1[0m" 404 -
+2024-10-31 10:33:39- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:33:39] "GET /get_cartoon/Tom%20and%20Jerry HTTP/1.1" 200 -
+2024-10-31 10:33:59- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:33:59] "GET /get_cartoon/Doraemon HTTP/1.1" 200 -
+2024-10-31 10:34:23- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:34:23] "GET /get_cartoon/Dora%20the%20Explorer HTTP/1.1" 200 -

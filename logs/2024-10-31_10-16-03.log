@@ -1,0 +1,7 @@
+2024-10-31 10:16:05- flask_cors.core - WARNING - Unknown option passed to Flask-CORS: origin
+2024-10-31 10:16:05- werkzeug - WARNING -  * Debugger is active!
+2024-10-31 10:16:05- werkzeug - INFO -  * Debugger PIN: 113-364-318
+2024-10-31 10:17:48- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:17:48] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-31 10:17:49- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:17:49] "[33mGET / HTTP/1.1[0m" 404 -
+2024-10-31 10:18:40- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:18:40] "[31m[1mGET /add_cartoon HTTP/1.1[0m" 405 -
+2024-10-31 10:18:46- werkzeug - INFO - 127.0.0.1 - - [31/Oct/2024 10:18:46] "[31m[1mGET /add_cartoon HTTP/1.1[0m" 405 -
